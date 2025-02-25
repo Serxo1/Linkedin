@@ -1,3 +1,7 @@
+#Dependencias
+#pip install selenium
+#pip install webdriver-manager
+
 import os
 import time
 from selenium import webdriver
